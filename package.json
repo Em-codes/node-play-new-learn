@@ -1,5 +1,5 @@
 {
-  "name": "crash-course",
+  "name": "testing-backend",
   "version": "1.0.0",
   "description": "a node crash course",
   "main": "server.js",
@@ -8,15 +8,13 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-crash-course.git"
+    "type": "git"
   },
-  "author": "net ninja",
+  "author": "em-codes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/node-crash-course/issues"
+    
   },
-  "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
   "dependencies": {
     "ejs": "^3.1.2",
     "express": "^4.17.1",
